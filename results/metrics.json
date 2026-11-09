@@ -1,0 +1,35 @@
+{
+  "stores": 20,
+  "supported_common_stores": 19,
+  "minimum_accepted_per_period": 50,
+  "raw_all_stores": {
+    "before": 0.8099780701754385,
+    "after": 0.5449464922711058,
+    "difference": -0.26503157790433274
+  },
+  "raw_common_stores": {
+    "before": 0.8118942731277533,
+    "after": 0.5447619047619048,
+    "difference": -0.2671323683658485
+  },
+  "standardized_common_stores": {
+    "before": 0.6602192982456139,
+    "after": 0.702938596491228,
+    "difference": 0.04271929824561416
+  },
+  "accepted_order_coverage": {
+    "before": 0.9956140350877193,
+    "after": 0.9988109393579072
+  },
+  "retained_reference_weight_fraction": 0.9500000000000001,
+  "paired_store_percentile_interval_95": [
+    0.027541118421052616,
+    0.05831304824561402
+  ],
+  "bootstrap": {
+    "unit": "store pair",
+    "repetitions": 2000,
+    "seed": 1602,
+    "interpretation": "descriptive; not a causal interval"
+  }
+}

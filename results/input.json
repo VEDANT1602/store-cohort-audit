@@ -1,0 +1,2828 @@
+{
+  "rows": [
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-00",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-00",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-01",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-01",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 74
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-02",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-02",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 64
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 64
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-03",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-03",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-04",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 74
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-04",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 75
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 61
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-05",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 8
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-05",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 76
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-06",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-06",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 71
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 75
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 62
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-07",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-07",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 70
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 73
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 64
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 72
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-08",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-08",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 0,
+      "accepted": 80,
+      "completed": 64
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 1,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 2,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 3,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 4,
+      "accepted": 80,
+      "completed": 67
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 5,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 6,
+      "accepted": 80,
+      "completed": 66
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 7,
+      "accepted": 80,
+      "completed": 68
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 8,
+      "accepted": 80,
+      "completed": 65
+    },
+    {
+      "store": "store-09",
+      "period": "before",
+      "day": 9,
+      "accepted": 80,
+      "completed": 69
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 0,
+      "accepted": 12,
+      "completed": 10
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 1,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 2,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 3,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 4,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 5,
+      "accepted": 12,
+      "completed": 12
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 6,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 7,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 8,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-09",
+      "period": "after",
+      "day": 9,
+      "accepted": 12,
+      "completed": 11
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 8
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-10",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 34
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 31
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 38
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 38
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-10",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 1
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-11",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 43
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 32
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 45
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 32
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 34
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 45
+    },
+    {
+      "store": "store-11",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-12",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 38
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 43
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 42
+    },
+    {
+      "store": "store-12",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 41
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-13",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 43
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 49
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 42
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 33
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 34
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 44
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 42
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 34
+    },
+    {
+      "store": "store-13",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 35
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 8
+    },
+    {
+      "store": "store-14",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 35
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 44
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 45
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 41
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 38
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 34
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-14",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-15",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 42
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 47
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 35
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-15",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-16",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 37
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 33
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 32
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 41
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 35
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-16",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 38
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 2
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 2
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 4
+    },
+    {
+      "store": "store-17",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 9
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 46
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 47
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 31
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 32
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 46
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 43
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 46
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 33
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 42
+    },
+    {
+      "store": "store-17",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 42
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 0,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 1,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 2,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 3,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 4,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 5,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 6,
+      "accepted": 12,
+      "completed": 5
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 7,
+      "accepted": 12,
+      "completed": 6
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 8,
+      "accepted": 12,
+      "completed": 3
+    },
+    {
+      "store": "store-18",
+      "period": "before",
+      "day": 9,
+      "accepted": 12,
+      "completed": 7
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 0,
+      "accepted": 80,
+      "completed": 46
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 1,
+      "accepted": 80,
+      "completed": 36
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 2,
+      "accepted": 80,
+      "completed": 43
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 3,
+      "accepted": 80,
+      "completed": 35
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 4,
+      "accepted": 80,
+      "completed": 31
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 5,
+      "accepted": 80,
+      "completed": 39
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 6,
+      "accepted": 80,
+      "completed": 44
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 7,
+      "accepted": 80,
+      "completed": 41
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 8,
+      "accepted": 80,
+      "completed": 40
+    },
+    {
+      "store": "store-18",
+      "period": "after",
+      "day": 9,
+      "accepted": 80,
+      "completed": 44
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 0,
+      "accepted": 4,
+      "completed": 2
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 1,
+      "accepted": 4,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 2,
+      "accepted": 4,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 3,
+      "accepted": 4,
+      "completed": 2
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 4,
+      "accepted": 4,
+      "completed": 2
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 5,
+      "accepted": 4,
+      "completed": 0
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 6,
+      "accepted": 4,
+      "completed": 2
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 7,
+      "accepted": 4,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 8,
+      "accepted": 4,
+      "completed": 2
+    },
+    {
+      "store": "store-19",
+      "period": "before",
+      "day": 9,
+      "accepted": 4,
+      "completed": 2
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 0,
+      "accepted": 1,
+      "completed": 0
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 1,
+      "accepted": 1,
+      "completed": 0
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 2,
+      "accepted": 1,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 3,
+      "accepted": 1,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 4,
+      "accepted": 1,
+      "completed": 0
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 5,
+      "accepted": 1,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 6,
+      "accepted": 1,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 7,
+      "accepted": 1,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 8,
+      "accepted": 1,
+      "completed": 1
+    },
+    {
+      "store": "store-19",
+      "period": "after",
+      "day": 9,
+      "accepted": 1,
+      "completed": 1
+    }
+  ],
+  "reference_weights": {
+    "store-00": 0.05,
+    "store-01": 0.05,
+    "store-02": 0.05,
+    "store-03": 0.05,
+    "store-04": 0.05,
+    "store-05": 0.05,
+    "store-06": 0.05,
+    "store-07": 0.05,
+    "store-08": 0.05,
+    "store-09": 0.05,
+    "store-10": 0.05,
+    "store-11": 0.05,
+    "store-12": 0.05,
+    "store-13": 0.05,
+    "store-14": 0.05,
+    "store-15": 0.05,
+    "store-16": 0.05,
+    "store-17": 0.05,
+    "store-18": 0.05,
+    "store-19": 0.05
+  },
+  "seed": 1602,
+  "measure": "completed accepted orders / accepted orders; no treatment assignment"
+}

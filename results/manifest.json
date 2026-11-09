@@ -1,0 +1,13 @@
+{
+  "source_sha256": {
+    "core.py": "65f9c0628c5a9cc2c25b92fa9b6e37d4c23c31891412cac9743a9395a5c53a1a",
+    "run.py": "f12b258742df0d6d9a9bf6a4a577e12b902ab3152f8ec3ba5dd01d72fe6c99d6",
+    "data/dataset.json": "0f2349940ec4fff2fbf488cb6b4fdf018417c5cd1b2d8128123b868fbf9217a9"
+  },
+  "artifact_sha256": {
+    "input.json": "0f2349940ec4fff2fbf488cb6b4fdf018417c5cd1b2d8128123b868fbf9217a9",
+    "metrics.json": "c9c84fbf4b3d875541b81cb12672869dab1ab0c0e49e5b6d5080a968db45ff3a",
+    "decisions.json": "cabfe2f9e6dc00455179367a5e547099541add479723aba35871ca5c85d1ea78",
+    "report.md": "376ee24e95c816eb8e8edf8a695d35b49445a190642d6394b1f0b7be93fef2ad"
+  }
+}

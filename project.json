@@ -1,0 +1,17 @@
+{
+  "name": "store-cohort-audit",
+  "title": "Store Cohort Audit",
+  "source_collection": "KalyanM45/AI-Project-Gallery",
+  "source_entry_url": "https://github.com/KalyanM45/Indian-Restaurants-Data-Analysis/blob/8b209b752494d5c8cfa9fee7444b62f044875081/README.md",
+  "skills": [
+    "statistics",
+    "retail operations",
+    "cohort analysis",
+    "executive communication"
+  ],
+  "problem": "Did a regional operational metric improve within comparable stores, or only because the store mix changed?",
+  "limitations": "Four hundred original store-period-day count rows cover 20 fictional stores over ten days before and after. Volume shifts toward lower-baseline stores while each latent completion probability increases by 0.03. One sparse store fails the minimum of 50 accepted orders per period. A fixed equal-store reference mix is supplied independently of observed outcomes. Rates are completed orders divided by accepted orders. Standardization answers a fixed-store-mix question rather than the order-weighted aggregate. Bootstrap resamples whole store pairs and is descriptive over 19 supported stores. No intervention or causal field result is asserted.",
+  "test_command": "python -m unittest discover -s tests -v",
+  "run_command": "python run.py --output runs/local",
+  "test_count": 10
+}

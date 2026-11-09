@@ -1,0 +1,221 @@
+{
+  "supported_pairs": [
+    {
+      "store": "store-00",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 697,
+      "after_completed": 111,
+      "before_rate": 0.87125,
+      "after_rate": 0.925,
+      "difference": 0.053750000000000075,
+      "weight": 0.05
+    },
+    {
+      "store": "store-01",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 699,
+      "after_completed": 109,
+      "before_rate": 0.87375,
+      "after_rate": 0.9083333333333333,
+      "difference": 0.0345833333333333,
+      "weight": 0.05
+    },
+    {
+      "store": "store-02",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 688,
+      "after_completed": 108,
+      "before_rate": 0.86,
+      "after_rate": 0.9,
+      "difference": 0.040000000000000036,
+      "weight": 0.05
+    },
+    {
+      "store": "store-03",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 680,
+      "after_completed": 112,
+      "before_rate": 0.85,
+      "after_rate": 0.9333333333333333,
+      "difference": 0.08333333333333337,
+      "weight": 0.05
+    },
+    {
+      "store": "store-04",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 700,
+      "after_completed": 109,
+      "before_rate": 0.875,
+      "after_rate": 0.9083333333333333,
+      "difference": 0.033333333333333326,
+      "weight": 0.05
+    },
+    {
+      "store": "store-05",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 693,
+      "after_completed": 105,
+      "before_rate": 0.86625,
+      "after_rate": 0.875,
+      "difference": 0.008750000000000036,
+      "weight": 0.05
+    },
+    {
+      "store": "store-06",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 694,
+      "after_completed": 106,
+      "before_rate": 0.8675,
+      "after_rate": 0.8833333333333333,
+      "difference": 0.015833333333333255,
+      "weight": 0.05
+    },
+    {
+      "store": "store-07",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 693,
+      "after_completed": 106,
+      "before_rate": 0.86625,
+      "after_rate": 0.8833333333333333,
+      "difference": 0.01708333333333334,
+      "weight": 0.05
+    },
+    {
+      "store": "store-08",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 692,
+      "after_completed": 108,
+      "before_rate": 0.865,
+      "after_rate": 0.9,
+      "difference": 0.03500000000000003,
+      "weight": 0.05
+    },
+    {
+      "store": "store-09",
+      "before_accepted": 800,
+      "after_accepted": 120,
+      "before_completed": 666,
+      "after_completed": 104,
+      "before_rate": 0.8325,
+      "after_rate": 0.8666666666666667,
+      "difference": 0.03416666666666668,
+      "weight": 0.05
+    },
+    {
+      "store": "store-10",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 58,
+      "after_completed": 368,
+      "before_rate": 0.48333333333333334,
+      "after_rate": 0.46,
+      "difference": -0.023333333333333317,
+      "weight": 0.05
+    },
+    {
+      "store": "store-11",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 45,
+      "after_completed": 384,
+      "before_rate": 0.375,
+      "after_rate": 0.48,
+      "difference": 0.10499999999999998,
+      "weight": 0.05
+    },
+    {
+      "store": "store-12",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 53,
+      "after_completed": 394,
+      "before_rate": 0.44166666666666665,
+      "after_rate": 0.4925,
+      "difference": 0.05083333333333334,
+      "weight": 0.05
+    },
+    {
+      "store": "store-13",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 48,
+      "after_completed": 396,
+      "before_rate": 0.4,
+      "after_rate": 0.495,
+      "difference": 0.09499999999999997,
+      "weight": 0.05
+    },
+    {
+      "store": "store-14",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 58,
+      "after_completed": 393,
+      "before_rate": 0.48333333333333334,
+      "after_rate": 0.49125,
+      "difference": 0.007916666666666683,
+      "weight": 0.05
+    },
+    {
+      "store": "store-15",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 52,
+      "after_completed": 384,
+      "before_rate": 0.43333333333333335,
+      "after_rate": 0.48,
+      "difference": 0.046666666666666634,
+      "weight": 0.05
+    },
+    {
+      "store": "store-16",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 55,
+      "after_completed": 372,
+      "before_rate": 0.4583333333333333,
+      "after_rate": 0.465,
+      "difference": 0.00666666666666671,
+      "weight": 0.05
+    },
+    {
+      "store": "store-17",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 49,
+      "after_completed": 408,
+      "before_rate": 0.4083333333333333,
+      "after_rate": 0.51,
+      "difference": 0.10166666666666668,
+      "weight": 0.05
+    },
+    {
+      "store": "store-18",
+      "before_accepted": 120,
+      "after_accepted": 800,
+      "before_completed": 52,
+      "after_completed": 399,
+      "before_rate": 0.43333333333333335,
+      "after_rate": 0.49875,
+      "difference": 0.06541666666666668,
+      "weight": 0.05
+    }
+  ],
+  "excluded": [
+    {
+      "store": "store-19",
+      "before_accepted": 40,
+      "after_accepted": 10,
+      "reason": "insufficient support in at least one period"
+    }
+  ]
+}
